@@ -5,11 +5,8 @@ Repository for the Freedom Rover Units ECE Senior Capstone group at the Universi
 
 Contributors names and contact info
 
-Jordy A. Larrea Rodriguez  
-[@CasuallyAlive](https://github.com/CasuallyAlive)
+Jordy A. Larrea Rodriguez [Github](https://github.com/CasuallyAlive), [LinkedIn](https://www.linkedin.com/in/jordy-a-larrea-rodriguez/).
 
-Brittney Morales
-[@charming21](https://github.com/charming21)
+Brittney Morales [Github](https://github.com/charming21), [LinkedIn](https://www.linkedin.com/in/brittney-morales-liza/).
 
-Misael Nava
-[@Misael812](https://github.com/Misael812)
+Misael Nava [Github](https://github.com/Misael812), [LinkedIn](https://www.linkedin.com/in/misaelnava/).
